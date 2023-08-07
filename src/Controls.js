@@ -100,6 +100,7 @@ const Controls = () => {
       }}
       ref={controlsRef}
     />
+  
   );
 };
 
